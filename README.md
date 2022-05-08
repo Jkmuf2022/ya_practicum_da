@@ -23,7 +23,7 @@
 
 ### 3. [Аналитика по данным Яндекс.Недвижимость](https://github.com/Jkmuf2022/ya_practicum_da/blob/main/03-analys-obyavlenii-yandex-nedvizhimost/3-analys-obyavlenii-yandex-nedvizhimost.ipynb)
 Анализ распределения данных выборки, выявление выбивающихся объявлений о продаже, определение факторов, наиболее сильно влияющих на рыночную стоимость недвижимости. Папка *3-analys-obyavlenii-yandex-nedvizhimost*
-##### Библиотеки: pandas / numpy / matplotlib / pymystem3 /  
+##### Библиотеки: pandas / numpy / matplotlib  
   
 ##### Навыки:   
   * Предобработка данных   
