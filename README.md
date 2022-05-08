@@ -1,7 +1,6 @@
 ## Учебные проекты курса Яндекс.Практикум -  "Анализ данных"
 
-### 1. Аналитика по данным сервиса Яндекс.Музыка
-(https://github.com/)
+### 1. [Аналитика по данным сервиса Яндекс.Музыка](https://github.com/Jkmuf2022/ya_practicum_da/blob/main/1-project-yandex-music/1-project-yandex-music.ipynb)
 Анализ предпочтений пользователей Москвы и Санкт-Петербурга, навыки предобработки данных, создание функций. Папка *1-project-yandex-music*
 ##### Библиотеки: pandas / numpy 
 
@@ -11,7 +10,7 @@
 
 ## -------------------------------------------------------------------- <a id="project01"></a> 
 
-### 2. Предобработка данных - "Исследование надёжности заёмщиков — анализ банковских данных"   
+### 2. [Предобработка данных - "Исследование надёжности заёмщиков — анализ банковских данных"](https://github.com/Jkmuf2022/ya_practicum_da/blob/main/2-issledovanie-nadezhnosti-zaemshikov/2-issledovanie-nadezhnosti-zaemshikov.ipynb)
 Исследование зависимости своевременной выплаты по кредиту клиентов банка. Папка *2-issledovanie-nadezhnosti-zaemshikov*
 ##### Библиотеки: pandas / numpy   
   
@@ -22,8 +21,7 @@
 ## -------------------------------------------------------------------- <a id="project02"></a> 
  
 
-### 3. Аналитика по данным Яндекс.Недвижимость
-(https://github.com/)
+### 3. [Аналитика по данным Яндекс.Недвижимость](https://github.com/Jkmuf2022/ya_practicum_da/blob/main/3-analys-obyavlenii-yandex-nedvizhimost/3-analys-obyavlenii-yandex-nedvizhimost.ipynb)
 Анализ распределения данных выборки, выявление выбивающихся объявлений о продаже, определение факторов, наиболее сильно влияющих на рыночную стоимость недвижимости. Папка *3-analys-obyavlenii-yandex-nedvizhimost*
 ##### Библиотеки: pandas / numpy / matplotlib / pymystem3 /  
   
@@ -36,7 +34,7 @@
 
 ## -------------------------------------------------------------------- <a id="project03"></a> 
 
-### 4. Статистический анализ: определение перспективного тарифа для телеком-компании
+### 4. [Статистический анализ: определение перспективного тарифа для телеком-компании](https://github.com/Jkmuf2022/ya_practicum_da/blob/main/4-poisk-tarifa-telekom-kompanii/4-poisk-tarifa-telekom-kompanii.ipynb)
 
 Анализ двух тарифов на небольшой выборке клиентов. Изучение объектов и их взаимосвязей методами статистики. Выборки и статистическая значимость. 
 Папка *4-poisk-tarifa-telekom-kompanii*
@@ -51,7 +49,7 @@
 
 ## -------------------------------------------------------------------- <a id="project04"></a> 
 
-### 5. Аналитика по продажам компьютерных игр
+### 5. [Аналитика по продажам компьютерных игр](https://github.com/Jkmuf2022/ya_practicum_da/blob/main/5-prognozirovanie-prodazh-kompyuternyh-igr/5-prognozirovanie-prodazh-kompyuternyh-igr.ipynb)
 
 Анализ распределения данных о продажах игр, определение портрета пользователя и проверка статистических гипотез. 
 Папка *5-prognozirovanie-prodazh-kompyuternyh-igr*
@@ -68,7 +66,7 @@
 
 ## -------------------------------------------------------------------- <a id="project05"></a>
 
-### 6. Маркетинговый анализ пользователей приложения.
+### 6. [Маркетинговый анализ пользователей приложения](https://github.com/Jkmuf2022/ya_practicum_da/blob/main/6-markeingoviy-analys-prilozheniya-procrastinate/6-markeingoviy-analys-prilozheniya-procrastinate.ipynb)
 Анализ метрик продукта, метрик продаж и окупаемости рекламных источников с целью оптимизации маркетинговых затрат. Анализ бизнес-показателей и Юнит-экономика. Папка *6-markeingoviy-analys-prilozheniya-procrastinate*
 ##### Библиотеки: pandas / numpy / matplotlib / seaborn / datetime / math 
 
@@ -82,7 +80,7 @@
 
 ## -------------------------------------------------------------------- <a id="project06"></a>
 
-### 7. Аналитика лога посещений интернет-магазина
+### 7. [Аналитика лога посещений интернет-магазина](https://github.com/Jkmuf2022/ya_practicum_da/blob/main/7-analys-A-B-testa/7-analys-A-B-testa.ipynb)
 Анализ воронки событий и результатов А/В теста. Папка *7-analys-A-B-testa*
 ##### Библиотеки: pandas / numpy / matplotlib / math / datetime / scipy 
   
@@ -95,7 +93,7 @@
 
 ## -------------------------------------------------------------------- <a id="project07"></a>
   
-  ### 8. Исследование рынка заведений общественного питания Москвы с целью определения лучшей локации для открытия нового кафе.
+  ### 8. [Исследование рынка заведений общественного питания Москвы с целью определения лучшей локации для открытия нового кафе](https://github.com/Jkmuf2022/ya_practicum_da/blob/main/8-issledovanie-zavedeniy-obshestvennogo-pitaniya/8-analys-cafe-moscow.ipynb)
   Исследование видов заведений, их расположения и количества посадочных мест. Для дополнения геоданных использованы данный из источника [Мосгаз](https://frs.noosphere.ru/xmlui/bitstream/handle/20.500.11925/714058/mosgaz-streets.csv?sequence=1&isAllowed=y). 
   Папка *8-issledovanie-zavedeniy-obshestvennogo-pitaniya*
   ##### Библиотеки: pandas / numpy / plotly / matplotlib / seaborn / re / math/ pymystem3 / requests / datetime
@@ -110,7 +108,7 @@
 
 ## -------------------------------------------------------------------- <a id="project08"></a>
 
-### 9. Исследование поведения пользователей мобильного приложения
+### 9. [Исследование поведения пользователей мобильного приложения](https://github.com/Jkmuf2022/ya_practicum_da/blob/main/9-voronka-prodazh-prilozheniya/9-voronka-prodazh-prilozheniya.ipynb)
 Получение данных из базы. Предобработка и обзор датасета. Воронка продаж. Фрмулирование и проверка гипотез, подготовка выводов.
 Папка *9-voronka-prodazh-prilozheniya*
 ##### Библиотеки: pandas / numpy / plotly / matplotlib / seaborn / math / re / scipy   
@@ -124,7 +122,8 @@
 ## -------------------------------------------------------------------- <a id="project09"></a>
 
 ### 10. Исследование взаимодействия пользователей с карточками Яндекс.Дзен
-Папка *10--yandex-dzen-users-analysis*
+* [Ссылка на дашборд](https://public.tableau.com/app/profile/olga7901/viz/avtomatization_project/sheet1)
+* [Ссылка на презентацию](https://github.com/Jkmuf2022/ya_practicum_da/blob/main/10-analys-yandex-dzen-users/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B2%D0%B7%D0%B0%D0%B8%D0%BC%D0%BE%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D1%8F%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9%20%D1%81%20%D0%BA%D0%B0%D1%80%D1%82%D0%BE%D1%87%D0%BA%D0%B0%D0%BC%D0%B8%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.%D0%94%D0%B7%D0%B5%D0%BD.pdf)
 
 ##### Библиотеки: pandas / sqlalchemy  
   
