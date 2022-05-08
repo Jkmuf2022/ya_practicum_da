@@ -96,7 +96,7 @@
 ## -------------------------------------------------------------------- <a id="project07"></a>
   
   ### 8. Исследование рынка заведений общественного питания Москвы с целью определения лучшей локации для открытия нового кафе.
-  Исследование видов заведений, их расположения и количества посадочных мест. Для дополнения геоданных использованы данный из источника [Мосгаз] ('https://frs.noosphere.ru/xmlui/bitstream/handle/20.500.11925/714058/mosgaz-streets.csv?sequence=1&isAllowed=y'). 
+  Исследование видов заведений, их расположения и количества посадочных мест. Для дополнения геоданных использованы данный из источника [Мосгаз](https://frs.noosphere.ru/xmlui/bitstream/handle/20.500.11925/714058/mosgaz-streets.csv?sequence=1&isAllowed=y). 
   Папка *8-issledovanie-zavedeniy-obshestvennogo-pitaniya*
   ##### Библиотеки: pandas / numpy / plotly / matplotlib / seaborn / re / math/ pymystem3 / requests / datetime
   
