@@ -80,7 +80,7 @@
 
 ## -------------------------------------------------------------------- <a id="project06"></a>
 
-### 7. [Аналитика лога посещений интернет-магазина](https://github.com/Jkmuf2022/ya_practicum_da/blob/main/07-analys-A-B-testa/7-analys-A-B-testa.ipynb)
+### 7. [Анализ А/В тестов посещений интернет-магазина](https://github.com/Jkmuf2022/ya_practicum_da/blob/main/07-analys-A-B-testa/7-analys-A-B-testa.ipynb)
 Анализ воронки событий и результатов А/В теста. Папка *7-analys-A-B-testa*
 ##### Библиотеки: pandas / numpy / matplotlib / math / datetime / scipy 
   
