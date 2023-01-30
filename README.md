@@ -149,14 +149,14 @@
 ## -------------------------------------------------------------------- <a id="project11"></a>
 
 ### 12 Pаботы из финального проекта:
--[Анализ ассортимента магазина товаров для дома](https://github.com/Jkmuf2022/ya_practicum_da/blob/main/12-final-projects/12-abc_xyz_analysis_.ipynb)  
+-[Анализ ассортимента магазина товаров для дома](https://github.com/Jkmuf2022/ya_practicum_da/blob/main/12-final-projects/12-abc_xyz_analysis-Copy1.ipynb)  
 Анализ распределения данных в выборке, портреты ушедших и оставшихся клиентов, анализ причин оттока, выбор моделей для предсказания оттока из библиотеки scikit-learn. Папка *12-abc_xyz_analysis_*
 ##### Библиотеки: pandas / matplotlib / plotly / seaborn / numpy/ datetime/ scipy  
   
 ##### Навыки: 
   * Применение ABC-XYZ анализа категрий товаров. 
   
-  -[Исследовательский анализ корректности проведения АВ-тестирования](https://github.com/Jkmuf2022/ya_practicum_da/blob/main/12-final-projects/12_ab_test_.ipynb)  
+  -[Исследовательский анализ корректности проведения АВ-тестирования](https://github.com/Jkmuf2022/ya_practicum_da/blob/main/12-final-projects/12_ab_test-Copy1.ipynb)  
   Оценка корректности и показательности проведения А/В теста, совпадение времени его проведения с маркетинговыми и другими событиями, а так же пересечение тестовой аудитории с конкурирующим тестом.
   Папка *12_ab_test_*
 ##### Библиотеки: pandas / matplotlib / plotly / seaborn / numpy/ math 
