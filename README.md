@@ -149,7 +149,7 @@
 ## -------------------------------------------------------------------- <a id="project11"></a>
 
 ### 12 Pаботы из финального проекта:
--[Анализ ассортимента магазина товаров для дома](https://github.com/Jkmuf2022/ya_practicum_da/blob/main/12-final-projects/12-abc_xyz_analysis_Copy1.ipynb)  
+-[Анализ ассортимента магазина товаров для дома](https://github.com/Jkmuf2022/ya_practicum_da/blob/main/12-final-projects/12_abc_xyz_analysis_Copy1.ipynb)  
 Анализ распределения данных в выборке, портреты ушедших и оставшихся клиентов, анализ причин оттока, выбор моделей для предсказания оттока из библиотеки scikit-learn. Папка *12-abc_xyz_analysis_Copy1*
 ##### Библиотеки: pandas / matplotlib / plotly / seaborn / numpy/ datetime/ scipy  
   
